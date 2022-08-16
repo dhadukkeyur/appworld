@@ -20,8 +20,8 @@
          "MGL_link":"https://sites.google.com/view/dkapps/home",
          "PredictionChamp_link":"https://409.go.predchamp.com",
          "admobrewardedads":"",
-         "firstscreen":"true",
-         "secondscreen":"true",
+         "firstscreen":"false",
+         "secondscreen":"false",
          "isSplash":"false"
       }
    ]
