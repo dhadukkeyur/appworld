@@ -1,0 +1,28 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"com.gbwatools.gblatestupdate.gbversion",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"",
+         "admob_BgOpenads":"",
+         "admob_inter":"",
+         "admob_inter1":"",
+         "admob_back_inter":"",
+         "admob_back_inter1":"",
+         "admob_banner":"",
+         "admob_native":"",
+         "admob_native_banner":"",
+         "qureka_link":"https://1373.win.qureka.com",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"false",
+         "secondscreen":"false",
+         "isSplash":"false"
+      }
+   ]
+}
