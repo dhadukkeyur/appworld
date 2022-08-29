@@ -6,6 +6,7 @@
          "app_link":"",
          "vpn_show":"true",
          "vnid":"touchvpn",
+         "Adbuttoncolor":"#99BBEE",
          "ad_type":"AdMOB",
          "ad_status":"on",
          "admob_aap_id":"",
