@@ -4,7 +4,7 @@
          "id":"",
          "app_version":1,
          "app_link":"com.video.downloader.video.player.statussaver",
-         "vpn_show":"false",
+         "vpn_show":"true",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#9EB23B",
          "ad_type":"AdMOB",
