@@ -4,7 +4,7 @@
          "id":"08",
          "app_version":1,
          "app_link":"com.tubedownloader.mp4videodownloader.reelsdownloader.moviedownloader",
-         "vpn_show":"true",
+         "vpn_show":"false",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#6E85B7",
          "ad_type":"AdMOB",
