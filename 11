@@ -25,6 +25,7 @@
          "admobrewardedads":"",
          "firstscreen":"true",
          "secondscreen":"true",
+         "mainactivity":"false",
          "isSplash":"false",
       "countryList": [
         {
