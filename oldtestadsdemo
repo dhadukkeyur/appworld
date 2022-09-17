@@ -30,6 +30,7 @@
                 "appopenshow": "yes",
                 "addialogshow": "none",
                 "testmode": "no",
+                "exitscreen": "true",
                 "addextra": "match,https://play536.atmequiz.com/,https://409.go.predchamp.com,no,on"
             }
         ]
