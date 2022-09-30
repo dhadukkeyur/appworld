@@ -23,8 +23,8 @@
          "MGL_link":"https://sites.google.com/view/dkapps/home",
          "PredictionChamp_link":"https://409.go.predchamp.com",
          "admobrewardedads":"",
-         "firstscreen":"false",
-         "secondscreen":"false",
+         "firstscreen":"true",
+         "secondscreen":"true",
          "mainactivity":"false",
          "isSplash":"false",
       "countryList": [
