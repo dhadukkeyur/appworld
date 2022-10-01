@@ -1,0 +1,39 @@
+{
+    "Response": "Success",
+    "DataArray": {
+        "Moreapps": [
+            {
+                "app_name": "",
+                "app_logo": "",
+                "app_link": "com.djmusicmixer.djbassbooster.djremix.djblast"
+            }
+        ],
+        "AppSetting": [
+            {
+                "appislive": "yes",
+                "am_inter": "/6499/example/interstitial",
+                "am_native": "/6499/example/native",
+                "am_native_banner": "/6499/example/native",
+                "am_banner": "/6499/example/banner",
+                "am_appopen": "/6499/example/app-open",
+                "am_back_appopen": "/6499/example/app-open",
+                "am_back_inter": "/6499/example/interstitial",
+                "am_reward": "",
+                "fb_inter": "YOUR_PLACEMENT_ID",
+                "fb_native": "YOUR_PLACEMENT_ID",
+                "fb_banner": "YOUR_PLACEMENT_ID",
+                "fb_nativebanner": "YOUR_PLACEMENT_ID",
+                "fb_reward": "YOUR_PLACEMENT_ID",
+                "ads_prioritytype": "fix",
+                "ads_priority": "0,2",
+                "showads": "yes",
+                "clickcount": "0",
+                "appopenshow": "yes",
+                "addialogshow": "none",
+                "testmode": "no",
+                "exitscreen": "true",
+                "addextra": "match,https://play536.atmequiz.com/,https://play536.atmequiz.com,no,on"
+            }
+        ]
+    }
+}
