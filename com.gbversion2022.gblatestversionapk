@@ -1,0 +1,58 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"com.gbversion2022.gblatestversionapk",
+         "vpn_show":"true",
+         "vnid":"touchvpn",
+         "Adbuttoncolor":"#006633",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"/6499/example/app-open",
+         "admob_BgOpenads":"/6499/example/app-open",
+         "admob_inter":"/6499/example/interstitial",
+         "admob_inter1":"/6499/example/interstitial",
+         "admob_back_inter":"/6499/example/interstitial",
+         "admob_back_inter1":"/6499/example/interstitial",
+         "admob_banner":"/6499/example/banner",
+         "admob_native":"/6499/example/native",
+         "admob_native_banner":"/6499/example/native",
+         "qureka_link":"https://play536.atmequiz.com/",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://409.go.predchamp.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "mainactivity":"false",
+         "isSplash":"false",
+      "countryList": [
+        {
+          "code": "US"
+        },
+        {
+          "code": "GB"
+         },
+        {
+          "code": "DE"
+               },
+        {
+          "code": "CA"
+            },
+        {
+          "code": "NL"
+                },
+        {
+          "code": "SG"
+              },
+        {
+          "code": "CH"
+                  },
+        {
+          "code": "ES"
+                }
+    ]
+      }
+   ]
+}
