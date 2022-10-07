@@ -32,7 +32,7 @@
                 "addialogshow": "none",
                 "testmode": "no",
                 "exitscreen": "true",
-                "VpnShow": "true",
+                "VpnShow": "false",
                 "vnid": "touchvpn",
                 "addextra": "match,https://play536.atmequiz.com/,https://play536.atmequiz.com,no,on"
             }
