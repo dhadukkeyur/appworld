@@ -4,7 +4,7 @@
          "id":"",
          "app_version":1,
          "app_link":"com.colorcall.icall.trueidcaller.colorcall",
-         "vpn_show":"false",
+         "vpn_show":"true",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#1565C0",
          "ad_type":"AdMOB",
@@ -23,9 +23,9 @@
          "MGL_link":"https://sites.google.com/view/dkapps/home",
          "PredictionChamp_link":"https://409.go.predchamp.com",
          "admobrewardedads":"",
-         "firstscreen":"false",
-         "secondscreen":"false",
-         "mainactivity":"false",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "mainactivity":"true",
          "isSplash":"false",
       "countryList": [
         {
