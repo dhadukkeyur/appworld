@@ -4,7 +4,7 @@
          "id":"65",
          "app_version":1,
          "app_link":"com.hdvideodownloader.hdvideoplayer",
-         "vpn_show":"true",
+         "vpn_show":"false",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#F97F51",
          "ad_type":"AdMOB",
