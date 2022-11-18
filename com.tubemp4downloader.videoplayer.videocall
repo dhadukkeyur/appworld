@@ -4,7 +4,7 @@
          "id":"",
          "app_version":1,
          "app_link":"com.tubemp4downloader.videoplayer.videocall",
-         "vpn_show":"true",
+         "vpn_show":"false",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#6666ff",
          "ad_type":"AdMOB",
