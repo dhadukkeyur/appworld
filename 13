@@ -4,7 +4,7 @@
          "id":"com.hdvideodownloader.tubedownloader.mp3downloader",
          "app_version":1,
          "app_link":"",
-         "vpn_show":"true",
+         "vpn_show":"false",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#e53935",
          "ad_type":"AdMOB",
