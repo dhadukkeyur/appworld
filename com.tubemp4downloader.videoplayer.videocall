@@ -4,7 +4,7 @@
          "id":"",
          "app_version":1,
          "app_link":"com.tubemp4downloader.videoplayer.videocall",
-         "vpn_show":"false",
+         "vpn_show":"true",
          "vnid":"touchvpn",
          "Adbuttoncolor":"#6666ff",
          "ad_type":"AdMOB",
@@ -27,9 +27,9 @@
          "MGL_link":"https://sites.google.com/view/dkapps/home",
          "PredictionChamp_link":"https://409.go.predchamp.com",
          "admobrewardedads":"",
-         "firstscreen":"false",
-         "secondscreen":"false",
-         "mainactivity":"false",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "mainactivity":"true",
          "isSplash":"false",
       "countryList": [
         {
@@ -45,7 +45,7 @@
           "code": "CA"
             },
         {
-          "code": "NL"
+          "code": "US"
                 },
         {
           "code": "SG"
@@ -54,7 +54,7 @@
           "code": "CH"
                   },
         {
-          "code": "ES"
+          "code": "CA"
                 }
     ]
       }
