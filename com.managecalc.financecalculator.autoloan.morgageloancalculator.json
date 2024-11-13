@@ -1,0 +1,36 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"https://play.google.com/store/apps/details?id=com.managecalc.financecalculator.autoloan.morgageloancalculator",
+         "vpn_show":"true",
+         "vnid":"gclid,fbclid,google1",
+         "Adbuttoncolor":"#B71919",
+         "ad_type":"AdMOB",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"ca-app-pub-3940256099942544/9257395921",
+         "admob_BgOpenads":"ca-app-pub-3940256099942544/9257395921",
+         "admob_inter":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_interstitial",
+         "admob_inter1":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_interstitial",
+         "admob_back_inter":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_interstitial",
+         "admob_back_inter1":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_interstitial",
+         "admob_banner":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_bannerr",
+         "admob_native":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_native",
+         "admob_native_banner":"/206696744,22864985575/thebes/infinity_infotech/com.managecalc.financecalculator.autoloan.morgageloancalculator_native",
+         "admobbannerNativerecyclerview":"",
+         "qureka_link":"https://moongamez.com/",
+         "MGL_link":"https://sites.google.com/view/dkapps/home",
+         "PredictionChamp_link":"https://moongamez.com",
+         "admobrewardedads":"",
+         "firstscreen":"true",
+         "secondscreen":"true",
+         "facebook_app_id": "1234",
+         "facebook_client_token": "1234",
+         "mainactivity":"false",
+         "ExtraScreenOnoff":"true",
+         "isSplash":"false"
+      }
+   ]
+}
